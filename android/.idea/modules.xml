@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ENGARDE.iml" filepath="$PROJECT_DIR$/.idea/modules/ENGARDE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ENGARDE.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ENGARDE.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/225310993/ENGARDE.lottie-react-native.iml" filepath="$PROJECT_DIR$/.idea/modules/225310993/ENGARDE.lottie-react-native.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1172805626/ENGARDE.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1172805626/ENGARDE.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-413034686/ENGARDE.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-413034686/ENGARDE.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1696134101/ENGARDE.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1696134101/ENGARDE.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/670090924/ENGARDE.react-native-inappbrowser-reborn.iml" filepath="$PROJECT_DIR$/.idea/modules/670090924/ENGARDE.react-native-inappbrowser-reborn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1978882073/ENGARDE.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1978882073/ENGARDE.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1165710912/ENGARDE.react-native-pager-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-1165710912/ENGARDE.react-native-pager-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-658646745/ENGARDE.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-658646745/ENGARDE.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1451332866/ENGARDE.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1451332866/ENGARDE.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-260714346/ENGARDE.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-260714346/ENGARDE.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1377626271/ENGARDE.react-native-splash-screen.iml" filepath="$PROJECT_DIR$/.idea/modules/-1377626271/ENGARDE.react-native-splash-screen.iml" />
+    </modules>
+  </component>
+</project>
