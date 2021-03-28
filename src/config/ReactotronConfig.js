@@ -2,7 +2,7 @@ import Reactotron, { asyncStorage } from 'reactotron-react-native'
 import sagaPlugin from 'reactotron-redux-saga';
 import { reactotronRedux } from 'reactotron-redux'
 
-Reactotron.configure({ name: 'ReinventAuction' })
+Reactotron.configure({ name: 'app_name' })
   .useReactNative()
   .use(sagaPlugin())
   .use(reactotronRedux()) //  <- here i am!
